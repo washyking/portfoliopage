@@ -1,12 +1,18 @@
-
-
-
 <template>
-    <div class="greetings">
-      <h1 ></h1>
-      <h3>
-        Hello
-        
-      </h3>
-    </div>
+  
+
+  <div class="greetings">
+    <h3>
+      Welcome to Alvins Portfolio 
+      
+    </h3>
+  </div>
 </template>
+
+<style>
+.greetings {
+  font-size: 36px;
+  color: red;
+}
+</style>
+
